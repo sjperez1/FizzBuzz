@@ -8,7 +8,7 @@ while(num<101) {
     } else if(num % 5 == 0) {
         console.log("Buzz");
     } else {
-        console.log(num)
+        console.log(num);
     }
     num++;
 }
